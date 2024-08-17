@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935224670426",
+    "project_id": "smartph-4a383",
+    "storage_bucket": "smartph-4a383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935224670426:android:f06b2df09b80db1fa4cde3",
+        "android_client_info": {
+          "package_name": "com.naitx.Smart_pH"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe0jQIOnNDeb8IWRpEaTHnlFMPF3o7ZOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
